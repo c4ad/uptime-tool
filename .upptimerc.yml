@@ -17,6 +17,6 @@ status-website:
   navbar:
     - title: Status Page
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Portal Access
+      href: https://app.fitwel.org
   theme: night
