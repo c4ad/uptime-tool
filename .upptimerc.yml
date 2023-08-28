@@ -20,3 +20,6 @@ status-website:
     - title: Jump Back to Portal
       href: https://app.fitwel.org
   theme: light
+
+i18n:
+  footer: Developed by [Fitwel Engineering Team](https://fitwel.org), powered by [ADAI](https://adai.com)
