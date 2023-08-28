@@ -4,7 +4,7 @@ repo: upptime-tool
 sites:
   - name: Get frontend
     url: https://app.fitwel.org
-  - name: GET to the portal
+  - name: GET backend
     url: https://api.fitwel.org/health
     method: GET
 
