@@ -2,21 +2,21 @@ owner: c4ad
 repo: uptime-tool
 
 sites:
-  - name: Get frontend
+  - name: Fitwel Portal Front-End
     url: https://app.fitwel.org
-  - name: GET backend
+  - name: Fitwel Portal Back-End
     url: https://api.fitwel.org/health
     method: GET
 
 status-website:
   cname: statuspage.fitwel.org
   logoUrl: https://images.squarespace-cdn.com/content/v1/6294f761bc48c512bfad618b/0eb45243-5c6c-4a63-b1f0-38efc7493465/Fitwel+Logo+Website+Black.png?format=1500w
-  name: Fitwel Portal Status Page
-  introTitle: Here you can check if our service is up and running
-  introMessage: Welcome to our Status Page!
+  name: Fitwel Portal Status Hub
+  introTitle: Your One-Stop Shop for Fitwel Portal Health
+  introMessage: Hey there! 👋 Stay in the loop with real-time updates on our system status.
   navbar:
-    - title: Status Page
+    - title: Home Base
       href: /
-    - title: Portal Access
+    - title: Jump Back to Portal
       href: https://app.fitwel.org
-  theme: night
+  theme: ocean
