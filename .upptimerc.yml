@@ -7,6 +7,8 @@ sites:
   - name: Fitwel Portal Back-End
     url: https://api.fitwel.org/health
     method: GET
+  - name: E-mail Notification Service
+    url: https://adai.app.n8n.cloud
 
 status-website:
   cname: statuspage.fitwel.org
