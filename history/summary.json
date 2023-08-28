@@ -34,5 +34,23 @@
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "E-mail Notification Service",
+    "url": "https://adai.app.n8n.cloud",
+    "icon": "https://icons.duckduckgo.com/ip3/adai.app.n8n.cloud.ico",
+    "slug": "e-mail-notification-service",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1112,
+    "timeDay": 1112,
+    "timeWeek": 1112,
+    "timeMonth": 1112,
+    "timeYear": 1112,
+    "dailyMinutesDown": {}
   }
 ]
