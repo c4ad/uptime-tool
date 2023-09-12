@@ -9,6 +9,8 @@ sites:
     method: GET
   - name: E-mail Notification Service
     url: https://adai.app.n8n.cloud
+  - name: Fitwel Portal Redesign (Dev)
+    url: https://api-redesign.dev.fitwel.org/health
 
 status-website:
   cname: statuspage.fitwel.org
