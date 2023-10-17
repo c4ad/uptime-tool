@@ -1,7 +1,7 @@
 url: https://api.fitwel.org/health
-status: down
-code: 503
-responseTime: 11352
-lastUpdated: 2023-10-17T13:40:32.869Z
+status: up
+code: 200
+responseTime: 165
+lastUpdated: 2023-10-17T13:46:10.386Z
 startTime: 2023-08-28T23:25:30.737Z
 generator: Upptime <https://github.com/upptime/upptime>
