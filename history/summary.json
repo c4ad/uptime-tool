@@ -4,19 +4,19 @@
     "url": "https://app.fitwel.org",
     "icon": "https://icons.duckduckgo.com/ip3/app.fitwel.org.ico",
     "slug": "fitwel-portal-front-end",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 200,
-    "timeWeek": 201,
-    "timeMonth": 246,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "48.84%",
+    "uptimeWeek": "92.69%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "99.13%",
+    "time": 240,
+    "timeDay": 206,
+    "timeWeek": 203,
+    "timeMonth": 245,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-10-26": 0
+      "2023-10-26": 737
     }
   },
   {
