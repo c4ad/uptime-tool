@@ -6,11 +6,11 @@ sites:
     url: https://app.fitwel.org
   - name: Fitwel Portal Back-End
     url: https://api.fitwel.org/health
-  - name: Fitwel VPN Services
-    url: https://vpn.fitwel.fitwel.org
     method: GET
   - name: E-mail Notification Service
     url: https://adai.app.n8n.cloud
+  - name: Fitwel VPN Services
+    url: https://vpn.fitwel.fitwel.org
 
 status-website:
   cname: statuspage.fitwel.org
