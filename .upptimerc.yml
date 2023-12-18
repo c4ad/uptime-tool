@@ -7,6 +7,11 @@ sites:
   - name: Fitwel Portal Back-End
     url: https://api.fitwel.org/health
     method: GET
+  - name: Fitwel Beta Portal Front-End
+    url: https://beta.fitwel.org
+  - name: Fitwel Beta Portal Back-End
+    url: https://api-beta.fitwel.org/health
+    method: GET
   - name: E-mail Notification Service
     url: https://adai.app.n8n.cloud
   - name: Fitwel VPN Services
@@ -21,7 +26,11 @@ status-website:
   navbar:
     - title: Home Base
       href: /
-    - title: Jump Back to Portal
+    - title: Open Legacy Portal
+      href: https://app.legacy.fitwel.org
+    - title: Open Current Portal
+      href: https://app.fitwel.org
+    - title: Open Beta portal
       href: https://app.fitwel.org
   theme: light
 
