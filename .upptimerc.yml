@@ -2,17 +2,22 @@ owner: c4ad
 repo: uptime-tool
 
 sites:
-  - name: Fitwel Portal Front-End
+  - name: Current Portal Front-End
     url: https://app.fitwel.org
-  - name: Fitwel Portal Back-End
+  - name: Current Portal Back-End
     url: https://api.fitwel.org/health
     method: GET
-  - name: Fitwel Beta Portal Front-End
+  - name: Beta Portal Front-End
     url: https://beta.fitwel.org
-  - name: Fitwel Beta Portal Back-End
+  - name: Beta Portal Back-End
     url: https://api-beta.fitwel.org/health
     method: GET
-  - name: E-mail Notification Service
+  - name: Canadian Portal Front-End
+    url: https://app.ca.fitwel.org
+  - name: Canadian Portal Back-End
+    url: https://api.ca.fitwel.org/health
+    method: GET
+  - name: E-mail Notification Service (N8N)
     url: https://adai.app.n8n.cloud
   - name: Fitwel VPN Services
     url: https://vpn.fitwel.fitwel.org
@@ -30,8 +35,10 @@ status-website:
       href: https://app.legacy.fitwel.org
     - title: Open Current Portal
       href: https://app.fitwel.org
-    - title: Open Beta portal
-      href: https://app.fitwel.org
+    - title: Open Beta Portal
+      href: https://beta.fitwel.org
+    - title: Open Canadian Portal
+      href: https://app.ca.fitwel.org
   theme: light
 
 i18n:
