@@ -112,18 +112,20 @@
     "url": "https://adai.app.n8n.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/adai.app.n8n.cloud.ico",
     "slug": "e-mail-notification-service-n8-n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 502,
-    "timeWeek": 430,
-    "timeMonth": 861,
-    "timeYear": 861,
-    "dailyMinutesDown": {}
+    "time": 1328,
+    "timeDay": 7915,
+    "timeWeek": 2292,
+    "timeMonth": 1328,
+    "timeYear": 1328,
+    "dailyMinutesDown": {
+      "2024-02-08": 0
+    }
   },
   {
     "name": "Fitwel VPN Services",
