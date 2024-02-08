@@ -112,19 +112,19 @@
     "url": "https://adai.app.n8n.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/adai.app.n8n.cloud.ico",
     "slug": "e-mail-notification-service-n8-n",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1328,
-    "timeDay": 7915,
-    "timeWeek": 2292,
-    "timeMonth": 1328,
-    "timeYear": 1328,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1297,
+    "timeDay": 5390,
+    "timeWeek": 2075,
+    "timeMonth": 1297,
+    "timeYear": 1297,
     "dailyMinutesDown": {
-      "2024-02-08": 0
+      "2024-02-08": 5
     }
   },
   {
