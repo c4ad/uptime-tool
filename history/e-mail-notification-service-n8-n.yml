@@ -1,7 +1,7 @@
 url: https://adai.app.n8n.cloud
-status: down
-code: 503
-responseTime: 341
-lastUpdated: 2024-02-13T10:30:06.724Z
+status: up
+code: 204
+responseTime: 495
+lastUpdated: 2024-02-13T10:36:21.018Z
 startTime: 2024-01-10T13:05:17.624Z
 generator: Upptime <https://github.com/upptime/upptime>
