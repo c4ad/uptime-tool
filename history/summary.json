@@ -40,19 +40,19 @@
     "url": "https://beta.fitwel.org",
     "icon": "https://icons.duckduckgo.com/ip3/beta.fitwel.org.ico",
     "slug": "beta-portal-front-end",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 298,
-    "timeWeek": 343,
-    "timeMonth": 322,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 299,
+    "timeDay": 196,
+    "timeWeek": 312,
+    "timeMonth": 314,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-03-17": 0
+      "2024-03-17": 6
     }
   },
   {
